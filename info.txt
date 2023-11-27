@@ -1,0 +1,21 @@
+
+CRIVE TOOL KIT - crivetk
+
+Programma creato da Filippo Crivellari 23/11/2023
+Funzionalita divise per argomenti:
+1 Argomento:
+    1. v o version: Visualizzare versione programma.
+    2. h o help: Visualizzare questo messaggio.
+    3. s o screenshot: Eseguire uno screenshot.
+
+2 Argomenti:
+    1. d o download + <argomento>: Scaricare un file <argomento> dal server explt.altervista.org (Aggiungere anche l'estensione del file).
+    2. d_url o download_url + <argomento>: Scaricare un qualsiasi file da un url <argomento> (Aggiungere anche l'estensione del file).
+    3. e o esegui + <argomento>: Eseguire un qualsiasi file (Aggiungere anche l'estensione del file).
+    4. color + <argomento>: Modificare colore testo del prompt con colore <argomento> *finire di sviluppare*
+
+3 Argomenti:
+    1. e o esegui + <argomento 1> + <argomento 2>: Eseguire un file di tipo <argomento 1> con nome file <argomento 2> 
+    {file supportati: vbs, ps1} (Aggiungere anche l'estensione del file).
+    2.
+    3.
